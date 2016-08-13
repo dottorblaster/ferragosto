@@ -1,0 +1,25 @@
+{
+  "name": "ferragosto",
+  "version": "1.0.0",
+  "description": "A CLI wrapper for chefacciamoaferragosto.it by nois3",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dottorblaster/ferragosto.git"
+  },
+  "keywords": [
+    "ferragosto",
+    "CLI",
+    "august",
+    "wrapper"
+  ],
+  "author": "Alessio Biancalana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dottorblaster/ferragosto/issues"
+  },
+  "homepage": "https://github.com/dottorblaster/ferragosto#readme"
+}
